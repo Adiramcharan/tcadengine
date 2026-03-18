@@ -1,4 +1,4 @@
-#ifndef CONSTANSTS_H
+#ifndef CONSTANTS_H
 #define CONSTANTS_H
 // Fundamental constants
 const double q=1.602e-19;       //Elementary charge(C)
